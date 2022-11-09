@@ -1,9 +1,0 @@
-/* Make all images pixelated and crisp. */
-image {
-    image-rendering: pixelated;
-}
-
-html, body {
-    width: 100vw;
-    height: 100vh;
-}

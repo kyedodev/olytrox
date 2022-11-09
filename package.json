@@ -1,19 +1,19 @@
 {
-  "name": "super-ultimate-rpg-6",
-  "version": "0.1.0",
-  "description": "Simple, versatile RPG game.",
-  "main": "./src/server.js",
+  "name": "olytrox",
+  "version": "0.0.0",
+  "description": "Simple, versatile text-based RPG.",
+  "main": "main.js",
   "scripts": {
     "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KyeDoesnt/js-rpg.git"
+    "url": "git+https://github.com/kyedodev/olytrox.git"
   },
   "author": "Kye Cedar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KyeDoesnt/js-rpg/issues"
+    "url": "https://github.com/kyedodev/olytrox/issues"
   },
-  "homepage": "https://github.com/KyeDoesnt/js-rpg#readme"
+  "homepage": "https://github.com/kyedodev/olytrox#readme"
 }
